@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace FormEsemenyek
+namespace WF_Events_FormEsemenyek
 {
   public partial class frmAblak : Form
   {

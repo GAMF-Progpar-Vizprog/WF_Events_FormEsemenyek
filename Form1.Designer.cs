@@ -1,4 +1,4 @@
-﻿namespace FormEsemenyek
+﻿namespace WF_Events_FormEsemenyek
 {
 	partial class Form1
 	{

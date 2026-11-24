@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FormEsemenyek
+namespace WF_Events_FormEsemenyek
 {
 	static class Program
 	{
